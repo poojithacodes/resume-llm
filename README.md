@@ -12,7 +12,7 @@ The tech stack I have used in the project
 
 ## For frontend  used react framework 
 
-1. git clone https://github.com/poojikuna2003/resume-llm.git 
+1. git clone https://github.com/poojithacodes/resume-llm.git 
     cd backend
     pip install -r requirements.txt 
     and run the backend
